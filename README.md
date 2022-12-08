@@ -1,0 +1,1 @@
+# Local implementation of the second part of the paper named *Improved Secure Integer Comparison via Homomorphic Encryption*
